@@ -1,0 +1,5 @@
+//Put the pendulum comport here the number represents the order that the comports are found on your system,
+//if you have, for instance, COM1 and COM14 and you want COM14 the number you put below would be 1 for the second comport
+//the first comport on the system would be 0 (in this case it would represent COM1)
+1
+
